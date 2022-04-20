@@ -9,18 +9,21 @@ Link Webb  : https://studentggwp.herokuapp.com/
 4. Login ke index.html
 ![Screenshot (66)](https://user-images.githubusercontent.com/71611488/164158778-2a0dd623-6185-4278-8bb6-65c80161148e.png)
 
-5. Logout
+5. tambah data
+![Screenshot (67)](https://user-images.githubusercontent.com/71611488/164164942-f9b148d4-6f56-4a31-b4d3-51fb605eb980.png)
+
+6. Logout
 ![Screenshot (68)](https://user-images.githubusercontent.com/71611488/164158816-424f39f4-d07d-4fa1-afa2-f9a52c19c10e.png)
 
 
-6. Form forgot password
+7. Form forgot password
 ![Screenshot (69)](https://user-images.githubusercontent.com/71611488/164158729-cd2cc447-0729-4179-b34c-c51b7a565cc2.png)
 
-7. Token
+8. Token
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/71611488/164158749-a976dfdb-3a5f-45b2-865c-ca0d08914bac.png)
 
-8. setup new password
+9. setup new password
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/71611488/164158851-9d75cae9-1196-44b5-8321-a0e581955b59.png)
 
